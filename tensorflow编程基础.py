@@ -32,4 +32,5 @@ a=1+1
 print(a)
 a=1+3
 print(a)
+print(a)
 
