@@ -35,4 +35,4 @@ print(a)
 print(a)
 b=a+1
 c=b+a
-print(c)
+
