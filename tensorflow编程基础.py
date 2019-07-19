@@ -34,4 +34,5 @@ a=1+3
 print(a)
 print(a)
 b=a+1
-
+c=b+a
+print(c)
